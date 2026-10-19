@@ -1,4 +1,4 @@
-# 🏥 Challenge 1: Pipeline de Machine Learning - Salud Pública
+# 🏥 Challenge 2: Pipeline de Machine Learning - Salud Pública
 
 **Caso Asignado (Tipo B):** Infecciones Respiratorias Agudas (IRA) y Neumonía en Menores de 5 Años en el Perú.
 
