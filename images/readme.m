@@ -1,1 +1,1 @@
-![Espacio de Estados IRA](./images/espacio_estado_ira.png)
+![Espacio de Estados IRA](.file:///C:/Users/yhona/Downloads/espacio_estado_ira.png)
